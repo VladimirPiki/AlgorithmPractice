@@ -1,0 +1,7 @@
+C:\Vladimir\Primeri_C#\Excer\ConsoleAppNET\ConsoleAppNET\bin\Debug\ConsoleAppNET.exe.config
+C:\Vladimir\Primeri_C#\Excer\ConsoleAppNET\ConsoleAppNET\bin\Debug\ConsoleAppNET.exe
+C:\Vladimir\Primeri_C#\Excer\ConsoleAppNET\ConsoleAppNET\bin\Debug\ConsoleAppNET.pdb
+C:\Vladimir\Primeri_C#\Excer\ConsoleAppNET\ConsoleAppNET\obj\Debug\ConsoleAppNET.csproj.AssemblyReference.cache
+C:\Vladimir\Primeri_C#\Excer\ConsoleAppNET\ConsoleAppNET\obj\Debug\ConsoleAppNET.csproj.CoreCompileInputs.cache
+C:\Vladimir\Primeri_C#\Excer\ConsoleAppNET\ConsoleAppNET\obj\Debug\ConsoleAppNET.exe
+C:\Vladimir\Primeri_C#\Excer\ConsoleAppNET\ConsoleAppNET\obj\Debug\ConsoleAppNET.pdb

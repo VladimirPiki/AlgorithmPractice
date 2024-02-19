@@ -1,0 +1,7 @@
+C:\Vladimir\Primeri_C#\Excer\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Vladimir\Primeri_C#\Excer\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Vladimir\Primeri_C#\Excer\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Vladimir\Primeri_C#\Excer\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Vladimir\Primeri_C#\Excer\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Vladimir\Primeri_C#\Excer\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Vladimir\Primeri_C#\Excer\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

@@ -1,0 +1,7 @@
+C:\Vladimir\Primeri_C#\Excer\ConsoleAppH1\ConsoleAppH1\bin\Debug\ConsoleAppH1.exe.config
+C:\Vladimir\Primeri_C#\Excer\ConsoleAppH1\ConsoleAppH1\bin\Debug\ConsoleAppH1.exe
+C:\Vladimir\Primeri_C#\Excer\ConsoleAppH1\ConsoleAppH1\bin\Debug\ConsoleAppH1.pdb
+C:\Vladimir\Primeri_C#\Excer\ConsoleAppH1\ConsoleAppH1\obj\Debug\ConsoleAppH1.csproj.AssemblyReference.cache
+C:\Vladimir\Primeri_C#\Excer\ConsoleAppH1\ConsoleAppH1\obj\Debug\ConsoleAppH1.csproj.CoreCompileInputs.cache
+C:\Vladimir\Primeri_C#\Excer\ConsoleAppH1\ConsoleAppH1\obj\Debug\ConsoleAppH1.exe
+C:\Vladimir\Primeri_C#\Excer\ConsoleAppH1\ConsoleAppH1\obj\Debug\ConsoleAppH1.pdb
